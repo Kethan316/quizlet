@@ -2,7 +2,7 @@ const quizzes = [
     ["Ethan", "student"],
     ["rabbit", "animal"],
     ["tiger","carnivore"],
-    ["brontosaurs","herb"]
+    ["brontosaurs!!!!","herb"]
 ];
 
 function render() {
